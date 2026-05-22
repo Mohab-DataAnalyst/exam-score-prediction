@@ -1,10 +1,10 @@
 # Exam Score Prediction
 
-This project predicts a student's exam score from study habits, lifestyle factors, attendance, and background information. It includes exploratory data analysis, regression modeling, and simple deployment demos using FastAPI and Streamlit.
+This project predicts a student's exam score from study habits, lifestyle factors, attendance, and background information. It includes exploratory data analysis, regression modeling (linear, lasso, ridge, random forest regressor) through pipelines, and deployment using FastAPI and Streamlit.
 
 ## Project Overview
 
-The goal of this project is to estimate student exam performance using machine learning. The project starts in a Jupyter Notebook for analysis and modeling, then adds lightweight deployment files so the model can be tested through an API or an interactive web interface.
+The goal of this project is to estimate student exam performance using machine learning. The project starts in a Jupyter Notebook for analysis and modeling, then adds deployment files so the model can be tested through an API or an interactive web interface.
 
 ## Dataset
 
