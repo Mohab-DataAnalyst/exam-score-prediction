@@ -6,6 +6,12 @@ This project predicts a student's exam score from study habits, lifestyle factor
 
 The goal of this project is to estimate student exam performance using machine learning. The project starts in a Jupyter Notebook for analysis and modeling, then adds deployment files so the model can be tested through an API or an interactive web interface.
 
+## Snapshots
+<p align="center">
+  <img src="https://github.com/Mohab-DataAnalyst/exam-score-prediction/blob/main/exam_streamlit.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/exam-score-prediction/blob/main/exam_api.PNG" width="800" height="500"/>
+</p>
+
 ## Dataset
 
 The dataset contains student-level features such as:
