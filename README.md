@@ -9,6 +9,7 @@ The goal of this project is to estimate student exam performance using machine l
 ## Snapshots
 <p align="center">
   <img src="https://github.com/Mohab-DataAnalyst/exam-score-prediction/blob/main/exam_streamlit.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/exam-score-prediction/blob/main/exam_streamlit_predict.PNG" width="800" height="500"/>
   <img src="https://github.com/Mohab-DataAnalyst/exam-score-prediction/blob/main/exam_api.PNG" width="800" height="500"/>
 </p>
 
