@@ -146,11 +146,3 @@ Example response:
 ## What I Learned
 
 This project helped me practice the full regression workflow: exploratory data analysis, preprocessing, model training, evaluation, model saving, and creating simple deployment interfaces for portfolio demos.
-
-## Future Improvements
-
-- Add more regression evaluation visuals.
-- Compare feature importance across models.
-- Track experiments with MLflow.
-- Add Docker support.
-- Deploy the app to a cloud platform.
